@@ -1,0 +1,8 @@
+check,n_test,positives,roc_auc
+platform base rates only,156,25,0.7451908396946565
+greenlight logit without platform,156,25,0.8112977099236641
+"greenlight logit, all features",156,25,0.8384732824427481
+"greenlight logit, within Netflix only",30,19,0.6267942583732057
+"greenlight logit, within JioHotstar only",28,3,0.45333333333333325
+"greenlight logit, within Amazon Prime Video only",26,2,0.875
+"greenlight logit, within ZEE5 only",52,1,0.803921568627451

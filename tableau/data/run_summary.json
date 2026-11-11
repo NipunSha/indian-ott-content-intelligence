@@ -1,0 +1,18 @@
+{
+ "n_titles": 998,
+ "n_scripted": 920,
+ "n_sample": 502,
+ "median_launch_views": 88563.0,
+ "p90_launch_views": 527444.2000000001,
+ "top10pct_share_of_views": 0.4247713666173038,
+ "median_pre_release_share": 0.07804886223600953,
+ "spearman_pre_vs_launch": 0.7454333402536794,
+ "median_sustain_ratio": 0.399957337883959,
+ "franchise_n": 54,
+ "franchise_median": 148339.0,
+ "non_franchise_median": 86860.5,
+ "log10_views_sd": 0.8543683147698269,
+ "threshold_views": 315556.75,
+ "ols_r2": 0.3735407964775084,
+ "ols_n": 502
+}

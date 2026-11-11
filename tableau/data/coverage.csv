@@ -1,0 +1,33 @@
+level,titles,measurable,share_measurable,dimension
+ALTT,22,11,0.5,platform
+Aha,62,11,0.1774193548387097,platform
+Amazon Prime Video,157,106,0.6751592356687898,platform
+ETV Win,15,3,0.2,platform
+Hoichoi,40,4,0.1,platform
+JioHotstar,180,101,0.5611111111111111,platform
+MX Player,30,4,0.13333333333333333,platform
+Netflix,129,108,0.8372093023255814,platform
+SonyLIV,77,37,0.4805194805194805,platform
+TVF Play,2,0,0.0,platform
+ZEE5,206,117,0.5679611650485437,platform
+Bengali,56,15,0.26785714285714285,primary_language
+English,3,2,0.6666666666666666,primary_language
+Hindi,476,292,0.6134453781512605,primary_language
+Kannada,15,7,0.4666666666666667,primary_language
+Malayalam,46,36,0.782608695652174,primary_language
+Marathi,15,11,0.7333333333333333,primary_language
+Other Indian,3,2,0.6666666666666666,primary_language
+Tamil,146,83,0.5684931506849316,primary_language
+Telugu,157,53,0.3375796178343949,primary_language
+Unknown,3,1,0.3333333333333333,primary_language
+film,389,264,0.6786632390745502,format
+series,531,238,0.448210922787194,format
+2018,43,16,0.37209302325581395,release_year
+2019,79,34,0.43037974683544306,release_year
+2020,151,87,0.5761589403973509,release_year
+2021,156,91,0.5833333333333334,release_year
+2022,124,59,0.47580645161290325,release_year
+2023,94,59,0.6276595744680851,release_year
+2024,103,60,0.5825242718446602,release_year
+2025,106,63,0.5943396226415094,release_year
+2026,64,33,0.515625,release_year

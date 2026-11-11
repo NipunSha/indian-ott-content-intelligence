@@ -1,0 +1,5 @@
+check,n,spearman_rho,p_value
+launch views vs IMDb vote count (all platforms),466,0.7057957413434688,1.7883877187477772e-71
+launch views vs IMDb average rating (attention is not quality),466,0.07541827715529655,0.10394949671128134
+launch views vs weeks in Netflix India Top 10 (Netflix titles released from Jul 2021),54,0.12293999978169878,0.37580721514731086
+median launch views: charted 370322 vs not charted 202645 (Mann-Whitney),54,,0.07272893998754154

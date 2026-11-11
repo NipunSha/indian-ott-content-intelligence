@@ -1,0 +1,78 @@
+platform,release_year,n,change_vs_prior_year,cumulative_titles
+ALTT,2018,13,,13
+ALTT,2019,6,-7.0,19
+ALTT,2020,1,-5.0,20
+ALTT,2021,2,1.0,22
+Aha,2020,11,,11
+Aha,2021,11,0.0,22
+Aha,2022,15,4.0,37
+Aha,2023,5,-10.0,42
+Aha,2024,11,6.0,53
+Aha,2025,9,-2.0,62
+Amazon Prime Video,2018,6,,6
+Amazon Prime Video,2019,6,0.0,12
+Amazon Prime Video,2020,33,27.0,45
+Amazon Prime Video,2021,33,0.0,78
+Amazon Prime Video,2022,18,-15.0,96
+Amazon Prime Video,2023,21,3.0,117
+Amazon Prime Video,2024,12,-9.0,129
+Amazon Prime Video,2025,14,2.0,143
+Amazon Prime Video,2026,14,0.0,157
+ETV Win,2023,3,,3
+ETV Win,2024,4,1.0,7
+ETV Win,2025,6,2.0,13
+ETV Win,2026,2,-4.0,15
+Hoichoi,2018,3,,3
+Hoichoi,2019,7,4.0,10
+Hoichoi,2020,6,-1.0,16
+Hoichoi,2021,6,0.0,22
+Hoichoi,2022,5,-1.0,27
+Hoichoi,2023,2,-3.0,29
+Hoichoi,2024,2,0.0,31
+Hoichoi,2025,6,4.0,37
+Hoichoi,2026,3,-3.0,40
+JioHotstar,2018,1,,1
+JioHotstar,2019,8,7.0,9
+JioHotstar,2020,20,12.0,29
+JioHotstar,2021,31,11.0,60
+JioHotstar,2022,34,3.0,94
+JioHotstar,2023,28,-6.0,122
+JioHotstar,2024,25,-3.0,147
+JioHotstar,2025,23,-2.0,170
+JioHotstar,2026,10,-13.0,180
+MX Player,2019,4,,4
+MX Player,2020,8,4.0,12
+MX Player,2021,9,1.0,21
+MX Player,2022,4,-5.0,25
+MX Player,2024,1,-3.0,26
+MX Player,2025,1,0.0,27
+MX Player,2026,3,2.0,30
+Netflix,2018,10,,10
+Netflix,2019,18,8.0,28
+Netflix,2020,27,9.0,55
+Netflix,2021,16,-11.0,71
+Netflix,2022,11,-5.0,82
+Netflix,2023,11,0.0,93
+Netflix,2024,14,3.0,107
+Netflix,2025,12,-2.0,119
+Netflix,2026,10,-2.0,129
+SonyLIV,2018,2,,2
+SonyLIV,2019,4,2.0,6
+SonyLIV,2020,7,3.0,13
+SonyLIV,2021,16,9.0,29
+SonyLIV,2022,20,4.0,49
+SonyLIV,2023,4,-16.0,53
+SonyLIV,2024,12,8.0,65
+SonyLIV,2025,11,-1.0,76
+SonyLIV,2026,1,-10.0,77
+TVF Play,2018,1,,1
+TVF Play,2021,1,0.0,2
+ZEE5,2018,7,,7
+ZEE5,2019,26,19.0,33
+ZEE5,2020,38,12.0,71
+ZEE5,2021,31,-7.0,102
+ZEE5,2022,17,-14.0,119
+ZEE5,2023,20,3.0,139
+ZEE5,2024,22,2.0,161
+ZEE5,2025,24,2.0,185
+ZEE5,2026,21,-3.0,206

@@ -1,0 +1,503 @@
+title_id,wiki_title,platform,primary_language,primary_genre,release_year,launch_views,pct_within_language
+T0616,Chhotolok,ZEE5,Bengali,Thriller,2023,980.0,0.0
+T0961,Mahabharat Murders,Hoichoi,Bengali,Thriller,2022,1295.0,0.071
+T0700,Ronkini Bhavan,ZEE5,Bengali,Thriller,2025,1980.0,0.143
+T0965,Mouchaak,Hoichoi,Bengali,Comedy,2021,2234.0,0.214
+T0715,Taarkata (2026 TV series),ZEE5,Bengali,Crime,2026,2602.0,0.286
+T0707,Shikarpur (TV series),ZEE5,Bengali,Crime,2023,3451.0,0.357
+T0650,Kaalipotka,ZEE5,Bengali,Action,2026,3981.0,0.429
+T0962,Mandaar,Hoichoi,Bengali,Crime,2021,5646.0,0.5
+T0947,Detective (2020 film),Hoichoi,Bengali,Thriller,2020,5994.0,0.571
+T0651,Kaantaye Kaantaye,ZEE5,Bengali,Thriller,2024,7443.0,0.643
+T0608,Bibhishon,ZEE5,Bengali,Thriller,2025,7641.0,0.714
+T0804,Tiki-Taka (film),ZEE5,Bengali,Drama,2020,17508.0,0.786
+T0706,Shabash Feluda,ZEE5,Bengali,Crime,2023,17747.0,0.857
+T0710,Shwetkali,ZEE5,Bengali,Thriller,2023,23378.0,0.929
+T0589,Abar Proloy,ZEE5,Bengali,Crime,2023,81249.0,1.0
+T0150,Big Girls Don't Cry (TV series),Amazon Prime Video,English,Drama,2024,8272.0,0.0
+T0027,Masaba Masaba,Netflix,English,Drama,2020,280118.0,1.0
+T0774,Lahore Confidential,ZEE5,Hindi,Thriller,2021,2.0,0.0
+T0609,Black Widows (Indian TV series),ZEE5,Hindi,Crime,2020,10.0,0.003
+T0009,Choona,Netflix,Hindi,Crime,2023,125.0,0.007
+T0372,The Secret of the Shiledars,JioHotstar,Hindi,Thriller,2025,145.0,0.01
+T0131,Soni (film),Netflix,Hindi,Crime,2018,500.0,0.014
+T0227,Bad Newz,Amazon Prime Video,Hindi,Comedy,2024,601.0,0.017
+T0909,Campus Diaries,MX Player,Hindi,Drama,2022,741.0,0.021
+T0564,Court Kacheri,SonyLIV,Hindi,Drama,2025,1118.0,0.024
+T0705,Shabad – Reet Aur Riwaaz,ZEE5,Hindi,Drama,2026,1451.0,0.027
+T0657,Kaun Banegi Shikharwati,ZEE5,Hindi,Comedy,2022,1983.0,0.031
+T0727,Virgin Bhasskar,ZEE5,Hindi,Drama,2019,2082.0,0.034
+T0279,Phoolan (film),Amazon Prime Video,Hindi,Biographical,2026,2334.0,0.038
+T0560,Bhonsle (film),SonyLIV,Hindi,Drama,2018,2361.0,0.041
+T0577,Salt City (TV series),SonyLIV,Hindi,Drama,2022,2362.0,0.045
+T0642,Ishq Aaj Kal,ZEE5,Hindi,Romance,2019,2596.0,0.048
+T0503,Ranjish Hi Sahi (TV series),JioHotstar,Hindi,Drama,2022,3375.0,0.052
+T0894,The Great Indian Dysfunctional Family,ALTT,Hindi,Drama,2018,3770.0,0.055
+T0357,Masoom (TV series),JioHotstar,Hindi,Thriller,2022,4387.0,0.058
+T0623,Divorce Ke Liye Kuch Bhi Karega,ZEE5,Hindi,Romance,2024,4550.0,0.062
+T0482,Rabia & Olivia,JioHotstar,Hindi,Drama,2023,4688.0,0.065
+T0110,Music Teacher (film),Netflix,Hindi,Drama,2019,5079.0,0.069
+T0805,Toba Tek Singh (film),ZEE5,Hindi,Drama,2018,6162.0,0.072
+T0898,Kehne Ko Humsafar Hain,ALTT,Hindi,Romance,2018,6421.0,0.076
+T0453,Chappad Phaad Ke,JioHotstar,Hindi,Comedy,2019,7108.0,0.079
+T0552,Zindaginama,SonyLIV,Hindi,Drama,2024,7556.0,0.082
+T0161,Dil Dosti Dilemma,Amazon Prime Video,Hindi,Drama,2024,8075.0,0.086
+T0689,Paurashpur,ZEE5,Hindi,Historical,2020,10032.0,0.089
+T0631,Fixerr,ZEE5,Hindi,Action,2019,10769.0,0.093
+T0356,Lootere (TV series),JioHotstar,Hindi,Action,2024,10922.0,0.096
+T0701,Satrangi: Badle Ka Khel,ZEE5,Hindi,Crime,2026,10949.0,0.1
+T0808,Waah Zindagi,ZEE5,Hindi,Comedy,2021,13530.0,0.103
+T0337,Dahan (TV series),JioHotstar,Hindi,Horror,2022,13657.0,0.107
+T0066,Dolly Kitty Aur Woh Chamakte Sitare,Netflix,Hindi,Comedy,2019,13868.0,0.11
+T0330,Commander Karan Saxena,JioHotstar,Hindi,Action,2024,14349.0,0.113
+T0768,Kaam Chalu Hai,ZEE5,Hindi,Drama,2024,14403.0,0.117
+T0352,Karmma Calling,JioHotstar,Hindi,Drama,2024,14909.0,0.12
+T0350,Kanneda,JioHotstar,Hindi,Crime,2025,14942.0,0.124
+T0180,Maa Ka Sum,Amazon Prime Video,Hindi,Drama,2026,15263.0,0.127
+T0732,36 Farmhouse,ZEE5,Hindi,Comedy,2022,15323.0,0.131
+T0321,Patna Shuklla,JioHotstar,Hindi,Drama,2024,15827.0,0.134
+T0629,Fireflies: Parth Aur Jugnu,ZEE5,Hindi,Fantasy/Sci-fi,2023,16587.0,0.137
+T0539,Raisinghani vs Raisinghani,SonyLIV,Hindi,Drama,2024,17057.0,0.141
+T0583,The Waking of a Nation,SonyLIV,Hindi,Historical,2025,17330.0,0.144
+T0377,Super V,JioHotstar,Hindi,Action,2019,19714.0,0.148
+T0362,Out of Love (Indian TV series),JioHotstar,Hindi,Thriller,2019,20079.0,0.151
+T0719,Thode Door Thode Paas,ZEE5,Hindi,Drama,2025,20098.0,0.155
+T0665,Maeri,ZEE5,Hindi,Crime,2024,21535.0,0.158
+T0746,Cabaret (2019 film),ZEE5,Hindi,Romance,2019,21769.0,0.162
+T0742,Barot House,ZEE5,Hindi,Thriller,2019,22267.0,0.165
+T0025,Maamla Legal Hai,Netflix,Hindi,Drama,2024,22420.0,0.168
+T0465,Kanpuriye,JioHotstar,Hindi,Drama,2019,22461.0,0.172
+T0671,Mission Over Mars,ZEE5,Hindi,Drama,2019,23428.0,0.175
+T0331,Commando (TV series),JioHotstar,Hindi,Action,2023,23616.0,0.179
+T0099,Maharaj (film),Netflix,Hindi,Historical,2024,24182.0,0.182
+T0890,Fittrat,ALTT,Hindi,Romance,2019,24459.0,0.186
+T0883,Booo Sabki Phategi,ALTT,Hindi,Horror,2019,25275.0,0.189
+T0888,Crashh,ALTT,Hindi,Drama,2021,25433.0,0.192
+T0338,Dear Ishq,JioHotstar,Hindi,Drama,2023,25580.0,0.196
+T0373,Showtime (Indian TV series),JioHotstar,Hindi,Drama,2024,27572.0,0.199
+T0648,Kaafir (Indian TV series),ZEE5,Hindi,Drama,2019,27674.0,0.203
+T0775,Line of Descent,ZEE5,Hindi,Crime,2019,27952.0,0.206
+T0444,Bahut Hua Samman,JioHotstar,Hindi,Comedy,2020,28160.0,0.21
+T0505,36 Days (TV series),SonyLIV,Hindi,Crime,2024,28676.0,0.213
+T0887,Class of 2020,ALTT,Hindi,Drama,2020,28740.0,0.216
+T0538,Raat Jawaan Hai,SonyLIV,Hindi,Comedy,2024,29031.0,0.22
+T0195,Rangeen,Amazon Prime Video,Hindi,Drama,2025,29074.0,0.223
+T0360,OK Computer (TV series),JioHotstar,Hindi,Fantasy/Sci-fi,2021,30436.0,0.227
+T0138,Upstarts (film),Netflix,Hindi,Comedy,2019,30625.0,0.23
+T0885,Broken But Beautiful,ALTT,Hindi,Romance,2018,31187.0,0.234
+T0604,Bakaiti,ZEE5,Hindi,Drama,2025,32372.0,0.237
+T0607,Bebaakee,ZEE5,Hindi,Drama,2020,32938.0,0.241
+T0759,Forensic (2022 film),ZEE5,Hindi,Crime,2022,33274.0,0.244
+T0085,Kaali Khuhi,Netflix,Hindi,Horror,2020,33956.0,0.247
+T0615,Chhal Kapat,ZEE5,Hindi,Thriller,2025,35792.0,0.251
+T0741,Bamfaad,ZEE5,Hindi,Romance,2020,37217.0,0.254
+T0895,Haq Se,ALTT,Hindi,Drama,2018,38113.0,0.258
+T0781,Luv Ki Arrange Marriage,ZEE5,Hindi,Romance,2024,39069.0,0.261
+T0250,Gehraiyaan,Amazon Prime Video,Hindi,Romance,2022,39332.0,0.265
+T0462,Hum Bhi Akele Tum Bhi Akele,JioHotstar,Hindi,Romance,2021,39776.0,0.268
+T0618,Crime Beat,ZEE5,Hindi,Crime,2025,40213.0,0.271
+T0500,London Files,JioHotstar,Hindi,Crime,2022,40506.0,0.275
+T0363,PariWar,JioHotstar,Hindi,Comedy,2020,41024.0,0.278
+T0720,United Kacche,ZEE5,Hindi,Comedy,2023,42043.0,0.282
+T0902,Puncch Beat,ALTT,Hindi,Romance,2019,42161.0,0.285
+T0765,Interrogation (2025 film),ZEE5,Hindi,Thriller,2025,43994.0,0.289
+T0378,Sweet Dreams (2025 film),JioHotstar,Hindi,Romance,2025,44186.0,0.292
+T0147,Bandish Bandits,Amazon Prime Video,Hindi,Romance,2020,46490.0,0.296
+T0051,Brij Mohan Amar Rahe,Netflix,Hindi,Action,2018,46501.0,0.299
+T0622,Dhoop Ki Deewar,ZEE5,Hindi,Drama,2021,46623.0,0.302
+T0695,Qubool Hai 2.0,ZEE5,Hindi,Drama,2021,47500.0,0.306
+T0034,Single Papa,Netflix,Hindi,Comedy,2025,48344.0,0.309
+T0543,A Simple Murder,SonyLIV,Hindi,Comedy,2020,49574.0,0.313
+T0755,Darbaan,ZEE5,Hindi,Drama,2020,50489.0,0.316
+T0670,Mentalhood,ZEE5,Hindi,Drama,2020,51109.0,0.32
+T0581,Tabbar,SonyLIV,Hindi,Thriller,2021,51851.0,0.323
+T0627,The Final Call (TV series),ZEE5,Hindi,Drama,2019,52224.0,0.326
+T0643,Jaanbaaz Hindustan Ke,ZEE5,Hindi,Action,2023,53714.0,0.33
+T0780,"Love, Sitara",ZEE5,Hindi,Drama,2024,55536.0,0.333
+T0778,London Confidential,ZEE5,Hindi,Thriller,2020,57664.0,0.337
+T0493,Code M,JioHotstar,Hindi,Drama,2020,59070.0,0.34
+T0242,Don't Be Shy (film),Amazon Prime Video,Hindi,Romance,2026,59313.0,0.344
+T0046,Ankahi Kahaniya,Netflix,Hindi,Drama,2021,59421.0,0.347
+T0508,Bada Naam Karenge,SonyLIV,Hindi,Comedy,2025,64942.0,0.351
+T0294,Songs of Paradise,Amazon Prime Video,Hindi,Biographical,2025,66462.0,0.354
+T0359,The Office (Indian TV series),JioHotstar,Hindi,Comedy,2019,66606.0,0.357
+T0777,Logout (film),ZEE5,Hindi,Thriller,2025,68702.0,0.361
+T0624,Duranga,ZEE5,Hindi,Crime,2022,69485.0,0.364
+T0011,Dabba Cartel,Netflix,Hindi,Crime,2025,71553.0,0.368
+T0801,Silence 2: The Night Owl Bar Shootout,ZEE5,Hindi,Thriller,2024,72064.0,0.371
+T0055,Chopsticks (film),Netflix,Hindi,Comedy,2019,74125.0,0.375
+T0807,Virgin Bhanupriya,ZEE5,Hindi,Comedy,2020,75116.0,0.378
+T0017,Hasmukh,Netflix,Hindi,Crime,2020,75249.0,0.381
+T0292,Sherni (2021 film),Amazon Prime Video,Hindi,Thriller,2021,79766.0,0.385
+T0123,Rautu Ka Raaz,Netflix,Hindi,Thriller,2024,81802.0,0.388
+T0117,Plan A Plan B,Netflix,Hindi,Romance,2022,83167.0,0.392
+T0254,Hello Charlie,Amazon Prime Video,Hindi,Comedy,2021,84619.0,0.395
+T0208,Do You Wanna Partner,Amazon Prime Video,Hindi,Comedy,2025,87216.0,0.399
+T0355,Life Hill Gayi,JioHotstar,Hindi,Comedy,2024,88176.0,0.402
+T0077,House Arrest (2019 film),Netflix,Hindi,Comedy,2019,88806.0,0.405
+T0069,Friday Night Plan,Netflix,Hindi,Comedy,2023,89270.0,0.409
+T0527,Kankhajura,SonyLIV,Hindi,Crime,2025,92011.0,0.412
+T0145,Andhera (TV series),Amazon Prime Video,Hindi,Horror,2025,93846.0,0.416
+T0893,Gandii Baat,ALTT,Hindi,Comedy,2018,98891.0,0.419
+T0617,Coldd Lassi Aur Chicken Masala,ZEE5,Hindi,Romance,2019,100445.0,0.423
+T0143,Adhura,Amazon Prime Video,Hindi,Horror,2023,101987.0,0.426
+T0059,Cobalt Blue (film),Netflix,Hindi,Drama,2022,102544.0,0.43
+T0449,Bloody Ishq,JioHotstar,Hindi,Horror,2024,105442.0,0.433
+T0461,The Great Shamsuddin Family,JioHotstar,Hindi,Drama,2025,106214.0,0.436
+T0224,Agni (2024 film),Amazon Prime Video,Hindi,Action,2024,109351.0,0.44
+T0122,Rajma Chawal,Netflix,Hindi,Comedy,2018,109383.0,0.443
+T0802,Silence... Can You Hear It?,ZEE5,Hindi,Thriller,2021,110996.0,0.447
+T0346,Hai Junoon!,JioHotstar,Hindi,Drama,2025,111762.0,0.45
+T0644,Janaawar – The Beast Within,ZEE5,Hindi,Crime,2025,114995.0,0.454
+T0889,Dil Hi Toh Hai,ALTT,Hindi,Drama,2018,118130.0,0.457
+T0528,Kathmandu Connection,SonyLIV,Hindi,Crime,2021,122428.0,0.46
+T0612,Brown (2026 TV series),ZEE5,Hindi,Crime,2026,125363.0,0.464
+T0371,School of Lies,JioHotstar,Hindi,Drama,2023,125706.0,0.467
+T0080,Jaadugar (2022 film),Netflix,Hindi,Drama,2022,126161.0,0.471
+T0129,Skater Girl,Netflix,Hindi,Drama,2021,126916.0,0.474
+T0520,Freedom at Midnight (TV series),SonyLIV,Hindi,Historical,2024,127979.0,0.478
+T0747,Chhatriwali (film),ZEE5,Hindi,Comedy,2023,128635.0,0.481
+T0032,Selection Day (TV series),Netflix,Hindi,Drama,2018,132439.0,0.485
+T0269,The Mehta Boys,Amazon Prime Video,Hindi,Drama,2025,133065.0,0.488
+T0135,Torbaaz,Netflix,Hindi,Drama,2020,134936.0,0.491
+T0760,Ghoomketu,ZEE5,Hindi,Comedy,2020,137727.0,0.495
+T0326,Aakhri Sach,JioHotstar,Hindi,Crime,2023,140956.0,0.498
+T0811,Yaara,ZEE5,Hindi,Crime,2020,146814.0,0.502
+T0091,Looop Lapeta,Netflix,Hindi,Comedy,2022,148703.0,0.505
+T0336,Criminal Justice: Behind Closed Doors,JioHotstar,Hindi,Crime,2020,149864.0,0.509
+T0731,14 Phere,ZEE5,Hindi,Romance,2021,151890.0,0.512
+T0364,Pop Kaun?,JioHotstar,Hindi,Comedy,2023,157411.0,0.515
+T0169,Happy Family: Conditions Apply,Amazon Prime Video,Hindi,Comedy,2023,158043.0,0.519
+T0259,Jalsa (2022 film),Amazon Prime Video,Hindi,Thriller,2022,169762.0,0.522
+T0349,Kaala (TV series),JioHotstar,Hindi,Crime,2023,170314.0,0.526
+T0466,Kaun Pravin Tambe?,JioHotstar,Hindi,Biographical,2022,173009.0,0.529
+T0803,Taish,ZEE5,Hindi,Action,2020,175483.0,0.533
+T0443,Babli Bouncer,JioHotstar,Hindi,Drama,2022,179237.0,0.536
+T0223,Ae Watan Mere Watan,Amazon Prime Video,Hindi,Historical,2024,180820.0,0.54
+T0751,Costao,ZEE5,Hindi,Biographical,2025,182823.0,0.543
+T0779,Lost (2023 film),ZEE5,Hindi,Thriller,2023,184338.0,0.546
+T0546,Tanaav,SonyLIV,Hindi,Action,2022,187765.0,0.55
+T0174,Jubilee (TV series),Amazon Prime Video,Hindi,Historical,2023,195306.0,0.553
+T0037,Taskaree,Netflix,Hindi,Crime,2026,202645.0,0.557
+T0301,Tiku Weds Sheru,Amazon Prime Video,Hindi,Romance,2023,205393.0,0.56
+T0127,Serious Men (film),Netflix,Hindi,Comedy,2020,205754.0,0.564
+T0125,Sardar Ka Grandson,Netflix,Hindi,Comedy,2021,207330.0,0.567
+T0239,Chhorii 2,Amazon Prime Video,Hindi,Horror,2025,207463.0,0.57
+T0007,Bombay Begums,Netflix,Hindi,Drama,2021,208955.0,0.574
+T0341,Escaype Live,JioHotstar,Hindi,Thriller,2022,208999.0,0.577
+T0056,Chor Nikal Ke Bhaga,Netflix,Hindi,Crime,2023,213229.0,0.581
+T0770,Kakuda (film),ZEE5,Hindi,Horror,2024,213528.0,0.584
+T0231,Be Happy (film),Amazon Prime Video,Hindi,Drama,2025,215742.0,0.588
+T0198,The Revolutionaries (TV series),Amazon Prime Video,Hindi,Historical,2026,219010.0,0.591
+T0072,Ginny Weds Sunny,Netflix,Hindi,Romance,2020,221586.0,0.595
+T0907,Bhay: The Gaurav Tiwari Mystery,MX Player,Hindi,Thriller,2025,222172.0,0.598
+T0154,Call Me Bae,Amazon Prime Video,Hindi,Comedy,2024,223360.0,0.601
+T0471,Lootcase,JioHotstar,Hindi,Comedy,2020,232183.0,0.605
+T0176,Khauf,Amazon Prime Video,Hindi,Horror,2025,232303.0,0.608
+T0087,Kathal (film),Netflix,Hindi,Thriller,2023,236257.0,0.612
+T0291,Sharmaji Namkeen,Amazon Prime Video,Hindi,Comedy,2022,236722.0,0.615
+T0136,Tribhanga (film),Netflix,Hindi,Drama,2021,236884.0,0.619
+T0054,Choked (film),Netflix,Hindi,Drama,2020,246098.0,0.622
+T0767,Kaagaz,ZEE5,Hindi,Biographical,2021,250956.0,0.625
+T0488,A Thursday,JioHotstar,Hindi,Thriller,2022,252037.0,0.629
+T0312,Chiraiya,JioHotstar,Hindi,Drama,2026,253544.0,0.632
+T0463,Hum Do Hamare Do,JioHotstar,Hindi,Comedy,2021,259403.0,0.636
+T0026,Mandala Murders,Netflix,Hindi,Crime,2025,259934.0,0.639
+T0142,Adarsh Baal Vidyalaya,Amazon Prime Video,Hindi,Comedy,2026,263514.0,0.643
+T0376,Sultan of Delhi (TV series),JioHotstar,Hindi,Action,2023,266407.0,0.646
+T0012,Delhi Crime,Netflix,Hindi,Crime,2019,269135.0,0.649
+T0070,Gandhari (2026 film),Netflix,Hindi,Action,2026,269350.0,0.653
+T0370,Sanak,JioHotstar,Hindi,Action,2021,269538.0,0.656
+T0769,Kadak Singh,ZEE5,Hindi,Thriller,2023,270248.0,0.66
+T0342,The Freelancer (TV series),JioHotstar,Hindi,Drama,2023,273761.0,0.663
+T0022,Leila (TV series),Netflix,Hindi,Drama,2019,274975.0,0.667
+T0134,Thar (film),Netflix,Hindi,Action,2022,275164.0,0.67
+T0019,Killer Soup,Netflix,Hindi,Comedy,2024,281576.0,0.674
+T0058,Class of '83,Netflix,Hindi,Crime,2020,284928.0,0.677
+T0246,Dybbuk (film),Amazon Prime Video,Hindi,Horror,2021,286300.0,0.68
+T0075,Gunjan Saxena: The Kargil Girl,Netflix,Hindi,Biographical,2020,286479.0,0.684
+T0459,Good Luck Jerry,JioHotstar,Hindi,Comedy,2022,287080.0,0.687
+T0281,Pippa (film),Amazon Prime Video,Hindi,Biographical,2023,297035.0,0.691
+T0067,Drive (2019 film),Netflix,Hindi,Crime,2019,297403.0,0.694
+T0119,Qala (film),Netflix,Hindi,Historical,2022,299162.0,0.698
+T0049,Bhakshak,Netflix,Hindi,Crime,2024,299243.0,0.701
+T0382,The Trial (Indian TV series),JioHotstar,Hindi,Drama,2023,308208.0,0.704
+T0173,Jee Karda,Amazon Prime Video,Hindi,Romance,2023,308755.0,0.708
+T0152,Breathe: Into the Shadows,Amazon Prime Video,Hindi,Crime,2020,310561.0,0.711
+T0237,Chhalaang,Amazon Prime Video,Hindi,Drama,2020,313164.0,0.715
+T0107,Mrs. Serial Killer,Netflix,Hindi,Crime,2020,313528.0,0.718
+T0103,Meenakshi Sundareshwar,Netflix,Hindi,Romance,2021,317218.0,0.722
+T0060,CTRL (film),Netflix,Hindi,Thriller,2024,323637.0,0.725
+T0369,"Saas, Bahu Aur Flamingo",JioHotstar,Hindi,Crime,2023,324190.0,0.729
+T0062,Dasvi,Netflix,Hindi,Comedy,2022,329576.0,0.732
+T0446,Bhoot Police,JioHotstar,Hindi,Horror,2021,344579.0,0.735
+T0128,Sikandar Ka Muqaddar,Netflix,Hindi,Crime,2024,349062.0,0.739
+T0635,Gyaarah Gyaarah,ZEE5,Hindi,Fantasy/Sci-fi,2024,354709.0,0.742
+T0086,Kartavya (2026 film),Netflix,Hindi,Crime,2026,360395.0,0.746
+T0368,Rudra: The Edge of Darkness,JioHotstar,Hindi,Crime,2022,362443.0,0.749
+T0003,Betaal,Netflix,Hindi,Horror,2020,365978.0,0.753
+T0033,She (TV series),Netflix,Hindi,Crime,2020,366579.0,0.756
+T0181,Made in Heaven (TV series),Amazon Prime Video,Hindi,Drama,2019,367697.0,0.759
+T0096,Lust Stories 3,Netflix,Hindi,Drama,2026,370322.0,0.763
+T0245,Durgamati,Amazon Prime Video,Hindi,Horror,2020,371457.0,0.766
+T0048,Baramulla (film),Netflix,Hindi,Horror,2025,372290.0,0.77
+T0043,AK vs AK,Netflix,Hindi,Comedy,2020,374242.0,0.773
+T0002,Bard of Blood,Netflix,Hindi,Action,2019,383545.0,0.777
+T0458,Gaslight (2023 film),JioHotstar,Hindi,Thriller,2023,387508.0,0.78
+T0238,Chhorii,Amazon Prime Video,Hindi,Horror,2021,389223.0,0.784
+T0073,The Girl on the Train (2021 film),Netflix,Hindi,Thriller,2021,411815.0,0.787
+T0097,Maa Behen,Netflix,Hindi,Comedy,2026,412919.0,0.79
+T0460,Govinda Naam Mera,JioHotstar,Hindi,Comedy,2022,421029.0,0.794
+T0485,Shiddat,JioHotstar,Hindi,Romance,2021,422101.0,0.797
+T0132,Tehran (2025 film),Netflix,Hindi,Thriller,2025,422178.0,0.801
+T0375,Special Ops 1.5: The Himmat Story,JioHotstar,Hindi,Action,2021,428537.0,0.804
+T0074,Guilty (2020 film),Netflix,Hindi,Thriller,2020,437675.0,0.808
+T0083,Jewel Thief (2025 film),Netflix,Hindi,Crime,2025,440020.0,0.811
+T0114,Pagglait,Netflix,Hindi,Comedy,2021,440897.0,0.814
+T0905,Aashram,MX Player,Hindi,Crime,2020,451731.0,0.818
+T0071,Ghost Stories (2020 film),Netflix,Hindi,Drama,2020,458089.0,0.821
+T0063,Dhamaka (2021 film),Netflix,Hindi,Thriller,2021,459847.0,0.825
+T0095,Lust Stories 2,Netflix,Hindi,Drama,2023,466193.0,0.828
+T0042,Ajeeb Daastaans,Netflix,Hindi,Drama,2021,468983.0,0.832
+T0014,Ghoul (miniseries),Netflix,Hindi,Horror,2018,477911.0,0.835
+T0159,Dahaad,Amazon Prime Video,Hindi,Crime,2023,483813.0,0.838
+T0334,Criminal Justice: A Family Matter,JioHotstar,Hindi,Crime,2025,498390.0,0.842
+T0203,Tandav (TV series),Amazon Prime Video,Hindi,Thriller,2021,508324.0,0.845
+T0183,Mirzapur (TV series),Amazon Prime Video,Hindi,Crime,2018,509301.0,0.849
+T0120,Raat Akeli Hai,Netflix,Hindi,Crime,2020,510967.0,0.852
+T0006,Black Warrant (TV series),Netflix,Hindi,Crime,2025,525160.0,0.856
+T0302,Toofaan,Amazon Prime Video,Hindi,Drama,2021,527698.0,0.859
+T0115,Phir Aayi Hasseen Dillruba,Netflix,Hindi,Romance,2024,553519.0,0.863
+T0078,Ikka (film),Netflix,Hindi,Drama,2026,554728.0,0.866
+T0111,Nadaaniyan,Netflix,Hindi,Romance,2025,561375.0,0.869
+T0109,Murder Mubarak,Netflix,Hindi,Thriller,2024,564561.0,0.873
+T0483,Sadak 2,JioHotstar,Hindi,Action,2020,567892.0,0.876
+T0156,Citadel: Honey Bunny,Amazon Prime Video,Hindi,Action,2024,575477.0,0.88
+T0251,Gulabo Sitabo,Amazon Prime Video,Hindi,Comedy,2020,575714.0,0.883
+T0241,Coolie No. 1 (2020 film),Amazon Prime Video,Hindi,Romance,2020,576049.0,0.887
+T0358,The Night Manager (Indian TV series),JioHotstar,Hindi,Action,2023,582006.0,0.89
+T0163,The Family Man (Indian TV series),Amazon Prime Video,Hindi,Action,2019,582092.0,0.893
+T0088,Khufiya,Netflix,Hindi,Thriller,2023,582650.0,0.897
+T0448,The Big Bull,JioHotstar,Hindi,Crime,2021,594118.0,0.9
+T0106,"Monica, O My Darling",Netflix,Hindi,Comedy,2022,620103.0,0.904
+T0016,Guns & Gulaabs,Netflix,Hindi,Comedy,2023,622013.0,0.907
+T0455,Cuttputlli,JioHotstar,Hindi,Crime,2022,648250.0,0.911
+T0029,Rana Naidu,Netflix,Hindi,Action,2023,652024.0,0.914
+T0230,Bawaal,Amazon Prime Video,Hindi,Action,2023,669645.0,0.918
+T0288,Sardar Udham,Amazon Prime Video,Hindi,Biographical,2021,670663.0,0.921
+T0468,Khuda Haafiz,JioHotstar,Hindi,Action,2020,673346.0,0.924
+T0290,Shakuntala Devi (film),Amazon Prime Video,Hindi,Biographical,2020,673705.0,0.928
+T0081,Jaane Jaan (2023 film),Netflix,Hindi,Thriller,2023,676116.0,0.931
+T0094,Lust Stories,Netflix,Hindi,Drama,2018,683633.0,0.935
+T0044,Amar Singh Chamkila (film),Netflix,Hindi,Biographical,2024,716105.0,0.938
+T0061,Darlings (film),Netflix,Hindi,Comedy,2022,731605.0,0.942
+T0052,Bulbbul,Netflix,Hindi,Historical,2020,776211.0,0.945
+T0366,Pritam and Pedro,JioHotstar,Hindi,Comedy,2026,784676.0,0.948
+T0093,Ludo (film),Netflix,Hindi,Comedy,2020,790722.0,0.952
+T0447,Bhuj: The Pride of India,JioHotstar,Hindi,Action,2021,815924.0,0.955
+T0065,Do Patti,Netflix,Hindi,Drama,2024,848270.0,0.959
+T0126,Sector 36,Netflix,Hindi,Crime,2024,858080.0,0.962
+T0076,Haseen Dillruba,Netflix,Hindi,Romance,2021,889080.0,0.966
+T0164,Farzi,Amazon Prime Video,Hindi,Comedy,2023,906231.0,0.969
+T0469,Laxmii,JioHotstar,Hindi,Horror,2020,960237.0,0.973
+T0189,Paatal Lok,Amazon Prime Video,Hindi,Crime,2020,1180794.0,0.976
+T0047,The Archies (film),Netflix,Hindi,Action,2023,1234724.0,0.979
+T0579,Scam 1992,SonyLIV,Hindi,Thriller,2020,1303624.0,0.983
+T0442,Atrangi Re,JioHotstar,Hindi,Romance,2021,1531819.0,0.986
+T0293,Shershaah,Amazon Prime Video,Hindi,Biographical,2021,1660530.0,0.99
+T0001,The Ba***ds of Bollywood,Netflix,Hindi,Action,2025,1702947.0,0.993
+T0031,Sacred Games (TV series),Netflix,Hindi,Crime,2018,1777529.0,0.997
+T0456,Dil Bechara,JioHotstar,Hindi,Romance,2020,1891289.0,1.0
+T0226,Amruthamathi,Amazon Prime Video,Kannada,Drama,2025,2385.0,0.0
+T0664,Maarigallu,ZEE5,Kannada,Horror,2025,8101.0,0.167
+T0708,Shodha,ZEE5,Kannada,Crime,2025,8404.0,0.333
+T0232,Bheemasena Nalamaharaja,Amazon Prime Video,Kannada,Drama,2020,29854.0,0.5
+T0262,Law (film),Amazon Prime Video,Kannada,Drama,2020,44234.0,0.667
+T0285,Rathnan Prapancha,Amazon Prime Video,Kannada,Comedy,2021,67157.0,0.833
+T0248,French Biriyani,Amazon Prime Video,Kannada,Comedy,2020,86505.0,1.0
+T0247,Fourth River,Amazon Prime Video,Malayalam,Drama,2020,1649.0,0.0
+T0323,Pharma (TV series),JioHotstar,Malayalam,Drama,2024,3097.0,0.029
+T0656,Kasaragod Embassy,ZEE5,Malayalam,Crime,2026,3757.0,0.057
+T0079,Irul,Netflix,Malayalam,Thriller,2021,4457.0,0.086
+T0266,Malik (2021 film),Amazon Prime Video,Malayalam,Drama,2021,7370.0,0.114
+T0562,Churuli,SonyLIV,Malayalam,Fantasy/Sci-fi,2021,18236.0,0.143
+T0320,Nagendran's Honeymoons,JioHotstar,Malayalam,Comedy,2024,20010.0,0.171
+T0316,Love Under Construction,JioHotstar,Malayalam,Romance,2025,21666.0,0.2
+T0101,Masthishka Maranam,Netflix,Malayalam,Comedy,2026,23709.0,0.229
+T0681,Olavum Theeravum (2024 film),ZEE5,Malayalam,Historical,2024,24648.0,0.257
+T0653,Kammattam,ZEE5,Malayalam,Crime,2025,32193.0,0.286
+T0523,Jai Mahendran,SonyLIV,Malayalam,Drama,2024,34855.0,0.314
+T0641,Inspection Bungalow,ZEE5,Malayalam,Horror,2025,37766.0,0.343
+T0229,Bannerghatta (film),Amazon Prime Video,Malayalam,Thriller,2021,39377.0,0.371
+T0515,The Chronicles of the 4.5 Gang,SonyLIV,Malayalam,Crime,2025,52900.0,0.4
+T0253,Halal Love Story,Amazon Prime Video,Malayalam,Comedy,2020,73252.0,0.429
+T0255,Home (2021 film),Amazon Prime Video,Malayalam,Drama,2021,74657.0,0.457
+T0467,Keshu Ee Veedinte Nadhan,JioHotstar,Malayalam,Comedy,2021,96447.0,0.486
+T0298,Sunny (2021 film),Amazon Prime Video,Malayalam,Drama,2021,98266.0,0.514
+T0570,Kaanekkaane,SonyLIV,Malayalam,Drama,2021,101243.0,0.543
+T0439,19(1)(a),JioHotstar,Malayalam,Drama,2022,133699.0,0.571
+T0287,Sara's,Amazon Prime Video,Malayalam,Romance,2021,138979.0,0.6
+T0667,Manorathangal,ZEE5,Malayalam,Drama,2024,182530.0,0.629
+T0235,C U Soon,Amazon Prime Video,Malayalam,Thriller,2020,214138.0,0.657
+T0576,Puzhu,SonyLIV,Malayalam,Drama,2022,214732.0,0.686
+T0315,Kerala Crime Files,JioHotstar,Malayalam,Crime,2023,223828.0,0.714
+T0233,Bhramam,Amazon Prime Video,Malayalam,Comedy,2021,227140.0,0.743
+T0240,Cold Case (film),Amazon Prime Video,Malayalam,Horror,2021,254165.0,0.771
+T0261,Kuruthi,Amazon Prime Video,Malayalam,Crime,2021,310498.0,0.8
+T0438,12th Man (film),JioHotstar,Malayalam,Thriller,2022,316233.0,0.829
+T0297,Sufiyum Sujatayum,Amazon Prime Video,Malayalam,Romance,2020,320699.0,0.857
+T0451,Bro Daddy,JioHotstar,Malayalam,Comedy,2022,347737.0,0.886
+T0309,1000 Babies,JioHotstar,Malayalam,Crime,2024,398335.0,0.914
+T0260,Joji (film),Amazon Prime Video,Malayalam,Crime,2021,435992.0,0.943
+T0104,Minnal Murali,Netflix,Malayalam,Action,2021,830088.0,0.971
+T0243,Drishyam 2,Amazon Prime Video,Malayalam,Crime,2021,887512.0,1.0
+T0591,Aga Aai Aaho Aai,ZEE5,Marathi,Drama,2026,896.0,0.0
+T0606,Be Dune Teen,ZEE5,Marathi,Drama,2025,1247.0,0.1
+T0621,Devkhel,ZEE5,Marathi,Thriller,2026,2611.0,0.2
+T0692,Premala Conditions Apply,ZEE5,Marathi,Romance,2026,4329.0,0.3
+T0602,Baai Tujhyapayi,ZEE5,Marathi,Drama,2025,5521.0,0.4
+T0637,Hey Kay Navin?,ZEE5,Marathi,Drama,2026,10040.0,0.5
+T0040,15 August (2019 film),Netflix,Marathi,Drama,2019,14419.0,0.6
+T0228,Bali (2021 film),Amazon Prime Video,Marathi,Horror,2021,24992.0,0.7
+T0064,The Disciple (2020 film),Netflix,Marathi,Drama,2020,26075.0,0.8
+T0598,Andhar Maya,ZEE5,Marathi,Horror,2025,28024.0,0.9
+T0530,Manvat Murders,SonyLIV,Marathi,Crime,2024,145791.0,1.0
+T0673,Mrs. & Mr. Shameem,ZEE5,Other Indian,Drama,2022,24000.0,0.0
+T0020,Kohrra,Netflix,Other Indian,Crime,2023,224792.0,1.0
+T0389,The Court (2026 TV series),JioHotstar,Tamil,Drama,2026,17.0,0.0
+T0514,Cheran's Journey,SonyLIV,Tamil,Drama,2024,931.0,0.012
+T0413,Uppu Puli Kaaram,JioHotstar,Tamil,Romance,2024,2795.0,0.024
+T0545,Tamil Rockerz,SonyLIV,Tamil,Thriller,2022,3711.0,0.037
+T0834,Ramany vs Ramany 3.0,Aha,Tamil,Comedy,2022,5392.0,0.049
+T0703,Seruppugal Jaakirathai,ZEE5,Tamil,Action,2025,5757.0,0.061
+T0544,Story of Things,SonyLIV,Tamil,Drama,2023,6156.0,0.073
+T0872,Payanigal Gavanikkavum,Aha,Tamil,Comedy,2022,6832.0,0.085
+T0574,Pandrikku Nandri Solli,SonyLIV,Tamil,Comedy,2022,8454.0,0.098
+T0716,Thadayam (TV series),ZEE5,Tamil,Crime,2026,8559.0,0.11
+T0407,Om Kali Jai Kali,JioHotstar,Tamil,Action,2025,9449.0,0.122
+T0209,Engga Hostel,Amazon Prime Video,Tamil,Comedy,2023,10767.0,0.134
+T0783,Mathil,ZEE5,Tamil,Drama,2021,12343.0,0.146
+T0928,Queen (TV series),MX Player,Tamil,Historical,2019,13776.0,0.159
+T0687,Paper Rocket,ZEE5,Tamil,Drama,2022,17512.0,0.171
+T0879,Udanpaal,Aha,Tamil,Comedy,2022,19484.0,0.183
+T0721,Veduvan,ZEE5,Tamil,Crime,2025,20306.0,0.195
+T0630,Five Six Seven Eight,ZEE5,Tamil,Drama,2022,21177.0,0.207
+T0698,Regai,ZEE5,Tamil,Thriller,2025,21465.0,0.22
+T0526,Kaiyum Kalavum,SonyLIV,Tamil,Drama,2022,22593.0,0.232
+T0649,Kaakee Circus,ZEE5,Tamil,Fantasy/Sci-fi,2026,27869.0,0.244
+T0399,Mathagam,JioHotstar,Tamil,Drama,2023,28264.0,0.256
+T0674,Mugilan,ZEE5,Tamil,Crime,2020,31101.0,0.268
+T0478,O2 (2022 film),JioHotstar,Tamil,Action,2022,35654.0,0.28
+T0217,Sweet Kaaram Coffee,Amazon Prime Video,Tamil,Drama,2023,41082.0,0.293
+T0866,Maruthi Nagar Police Station,Aha,Tamil,Crime,2023,42776.0,0.305
+T0754,Danny (2020 film),ZEE5,Tamil,Action,2020,42959.0,0.317
+T0284,Raame Aandalum Raavane Aandalum,Amazon Prime Video,Tamil,Drama,2021,51797.0,0.329
+T0750,Cocktail (2020 film),ZEE5,Tamil,Comedy,2020,54505.0,0.341
+T0776,Lock Up (2020 film),ZEE5,Tamil,Action,2020,55994.0,0.354
+T0124,RK Nagar (film),Netflix,Tamil,Drama,2019,57769.0,0.366
+T0396,LBW: Love Beyond Wicket,JioHotstar,Tamil,Drama,2026,58121.0,0.378
+T0806,Vinodhaya Sitham,ZEE5,Tamil,Fantasy/Sci-fi,2021,59866.0,0.39
+T0717,Thalaimai Seyalagam,ZEE5,Tamil,Drama,2024,63520.0,0.402
+T0408,Parachute (TV series),JioHotstar,Tamil,Drama,2024,65932.0,0.415
+T0403,MY3,JioHotstar,Tamil,Romance,2023,69336.0,0.427
+T0573,Naduvan,SonyLIV,Tamil,Action,2021,73847.0,0.439
+T0275,Oh My Dog,Amazon Prime Video,Tamil,Comedy,2022,74768.0,0.451
+T0391,Goli Soda Rising,JioHotstar,Tamil,Action,2024,76956.0,0.463
+T0702,Sengalam,ZEE5,Tamil,Drama,2023,82102.0,0.476
+T0793,Oru Pakka Kathai,ZEE5,Tamil,Romance,2020,86388.0,0.488
+T0398,Live Telecast,JioHotstar,Tamil,Horror,2021,86423.0,0.5
+T0472,Lucky the Superstar,JioHotstar,Tamil,Comedy,2026,88320.0,0.512
+T0556,Anel Meley Pani Thuli,SonyLIV,Tamil,Crime,2022,90756.0,0.524
+T0452,Cadaver (2022 film),JioHotstar,Tamil,Thriller,2022,111423.0,0.537
+T0480,Paramapadham Vilayattu,JioHotstar,Tamil,Drama,2021,130639.0,0.549
+T0592,Aindham Vedham,ZEE5,Tamil,Thriller,2024,135248.0,0.561
+T0481,Pon Manickavel (film),JioHotstar,Tamil,Action,2021,135308.0,0.573
+T0286,Saani Kaayidham,Amazon Prime Video,Tamil,Crime,2022,136724.0,0.585
+T0395,Label (TV series),JioHotstar,Tamil,Action,2023,161212.0,0.598
+T0529,Kuttram Purindhavan: The Guilty One,SonyLIV,Tamil,Crime,2025,163474.0,0.61
+T0304,Udanpirappe,Amazon Prime Video,Tamil,Action,2021,180252.0,0.622
+T0213,Modern Love Chennai,Amazon Prime Video,Tamil,Romance,2023,180721.0,0.634
+T0584,Vaazhl,SonyLIV,Tamil,Drama,2021,183925.0,0.646
+T0479,Oh Manapenne!,JioHotstar,Tamil,Romance,2021,197422.0,0.659
+T0445,Bhoomi (2021 film),JioHotstar,Tamil,Action,2021,235184.0,0.671
+T0411,Taanakkaran,JioHotstar,Tamil,Action,2022,236407.0,0.683
+T0757,Dikkiloona,ZEE5,Tamil,Fantasy/Sci-fi,2021,253091.0,0.695
+T0441,Annabelle Sethupathi,JioHotstar,Tamil,Horror,2021,263107.0,0.707
+T0219,Vadhandhi season 2,Amazon Prime Video,Tamil,Thriller,2026,270269.0,0.72
+T0766,Ka Pae Ranasingam,ZEE5,Tamil,Drama,2020,293707.0,0.732
+T0045,Andhaghaaram,Netflix,Tamil,Horror,2020,308526.0,0.744
+T0487,Teddy (film),JioHotstar,Tamil,Fantasy/Sci-fi,2021,334882.0,0.756
+T0222,The Village (2023 TV series),Amazon Prime Video,Tamil,Horror,2023,340924.0,0.768
+T0473,Maaran (2022 film),JioHotstar,Tamil,Drama,2022,346806.0,0.78
+T0220,Vadhandhi: The Fable of Velonie,Amazon Prime Video,Tamil,Thriller,2022,359704.0,0.793
+T0477,Netrikann,JioHotstar,Tamil,Crime,2021,359894.0,0.805
+T0405,November Story,JioHotstar,Tamil,Crime,2021,368057.0,0.817
+T0098,Made in Korea (film),Netflix,Tamil,Comedy,2026,372425.0,0.829
+T0282,Ponmagal Vandhal,Amazon Prime Video,Tamil,Drama,2020,379207.0,0.841
+T0211,Inspector Rishi,Amazon Prime Video,Tamil,Crime,2024,383451.0,0.854
+T0283,Putham Pudhu Kaalai,Amazon Prime Video,Tamil,Drama,2020,387136.0,0.866
+T0133,Test (2025 film),Netflix,Tamil,Drama,2025,417903.0,0.878
+T0263,Maara,Amazon Prime Video,Tamil,Action,2021,427213.0,0.89
+T0476,Mookuthi Amman,JioHotstar,Tamil,Fantasy/Sci-fi,2020,438517.0,0.902
+T0278,Penguin (film),Amazon Prime Video,Tamil,Thriller,2020,524054.0,0.915
+T0264,Mahaan (2022 film),Amazon Prime Video,Tamil,Action,2022,552487.0,0.927
+T0216,Suzhal: The Vortex,Amazon Prime Video,Tamil,Crime,2022,555470.0,0.939
+T0082,Jagame Thandhiram,Netflix,Tamil,Crime,2021,607702.0,0.951
+T0113,Paava Kadhaigal,Netflix,Tamil,Drama,2020,806877.0,0.963
+T0289,Sarpatta Parambarai,Amazon Prime Video,Tamil,Drama,2021,1215069.0,0.976
+T0295,Soorarai Pottru,Amazon Prime Video,Tamil,Drama,2020,1484262.0,0.988
+T0258,Jai Bhim (film),Amazon Prime Video,Tamil,Drama,2021,2030573.0,1.0
+T0985,Asalu,ETV Win,Telugu,Crime,2023,19.0,0.0
+T0429,Miss Perfect,JioHotstar,Telugu,Comedy,2024,79.0,0.019
+T0619,D/o Prasad Rao: Kanabadutaledu,ZEE5,Telugu,Thriller,2025,287.0,0.038
+T0427,Kobali,JioHotstar,Telugu,Crime,2025,985.0,0.058
+T0105,Miss India (2020 film),Netflix,Telugu,Drama,2020,1373.0,0.077
+T0849,Bhamakalapam (film),Aha,Telugu,Crime,2022,1637.0,0.096
+T0663,Maa Neella Tank,ZEE5,Telugu,Comedy,2022,3316.0,0.115
+T0554,Aakashavaani,SonyLIV,Telugu,Drama,2021,3552.0,0.135
+T0277,Pachchis,Amazon Prime Video,Telugu,Thriller,2021,3823.0,0.154
+T0820,CommitMental,Aha,Telugu,Comedy,2020,4066.0,0.173
+T0594,Amrutham Dhvitheeyam,ZEE5,Telugu,Comedy,2020,7973.0,0.192
+T0992,Raju Weds Rambai,ETV Win,Telugu,Romance,2025,9730.0,0.212
+T0634,Gods of Dharmapuri,ZEE5,Telugu,Crime,2019,12748.0,0.231
+T0679,"Objection, My Lord!",ZEE5,Telugu,Drama,2026,14697.0,0.25
+T0307,Uppu Kappurambu,Amazon Prime Video,Telugu,Comedy,2025,15266.0,0.269
+T0587,WWW (film),SonyLIV,Telugu,Thriller,2021,15444.0,0.288
+T0603,Bahishkarana,ZEE5,Telugu,Drama,2024,15519.0,0.308
+T0733,47 Days,ZEE5,Telugu,Thriller,2020,16250.0,0.327
+T0685,Panchanama (2026 TV series),ZEE5,Telugu,Crime,2026,17187.0,0.346
+T0864,Maa Vintha Gaadha Vinuma,Aha,Telugu,Romance,2020,20010.0,0.365
+T0252,Guvva Gorinka,Amazon Prime Video,Telugu,Romance,2020,22816.0,0.385
+T0633,Gaalivaana,ZEE5,Telugu,Thriller,2022,24129.0,0.404
+T0146,Arabia Kadali,Amazon Prime Video,Telugu,Drama,2025,25071.0,0.423
+T0825,Kudi Yedamaithe,Aha,Telugu,Fantasy/Sci-fi,2021,25327.0,0.442
+T0726,Viraatapalem,ZEE5,Telugu,Horror,2025,25355.0,0.462
+T0688,Paruvu,ZEE5,Telugu,Crime,2024,27947.0,0.481
+T0234,Bombhaat,Amazon Prime Video,Telugu,Fantasy/Sci-fi,2020,30237.0,0.5
+T0871,Orey Bujjiga,Aha,Telugu,Romance,2020,37348.0,0.519
+T0669,Maya Bazaar For Sale,ZEE5,Telugu,Comedy,2023,41176.0,0.538
+T0202,Sivarapalli,Amazon Prime Video,Telugu,Comedy,2025,42544.0,0.558
+T0509,Bench Life,SonyLIV,Telugu,Drama,2024,43418.0,0.577
+T0877,Super Over (film),Aha,Telugu,Crime,2021,44339.0,0.596
+T0184,Modern Love Hyderabad,Amazon Prime Video,Telugu,Romance,2022,50856.0,0.615
+T0585,Vivaha Bhojanambu (2021 film),SonyLIV,Telugu,Comedy,2021,55099.0,0.635
+T0724,Vikkatakavi,ZEE5,Telugu,Thriller,2024,60911.0,0.654
+T0271,Ek Mini Katha,Amazon Prime Video,Telugu,Comedy,2021,62800.0,0.673
+T0090,Krishna and His Leela,Netflix,Telugu,Romance,2020,74428.0,0.692
+T0249,Gatham,Amazon Prime Video,Telugu,Thriller,2020,77882.0,0.712
+T0790,Ninnila Ninnila,ZEE5,Telugu,Romance,2021,105271.0,0.731
+T0244,Drushyam 2,Amazon Prime Video,Telugu,Crime,2021,110238.0,0.75
+T0428,Mansion 24,JioHotstar,Telugu,Horror,2023,128841.0,0.769
+T0270,Middle Class Melodies,Amazon Prime Video,Telugu,Comedy,2020,137267.0,0.788
+T0856,Colour Photo,Aha,Telugu,Historical,2020,146303.0,0.808
+T0137,Uma Maheswara Ugra Roopasya,Netflix,Telugu,Comedy,2020,188570.0,0.827
+T0474,Maestro (2021 film),JioHotstar,Telugu,Comedy,2021,188745.0,0.846
+T0303,Tuck Jagadish,Amazon Prime Video,Telugu,Action,2021,197050.0,0.865
+T0116,Pitta Kathalu,Netflix,Telugu,Drama,2021,206423.0,0.885
+T0510,Brinda (TV series),SonyLIV,Telugu,Crime,2024,219591.0,0.904
+T0533,Mayasabha (TV series),SonyLIV,Telugu,Drama,2025,225317.0,0.923
+T0984,Anaganaga (film),ETV Win,Telugu,Drama,2025,236717.0,0.942
+T0272,Narappa,Amazon Prime Video,Telugu,Historical,2021,274612.0,0.962
+T0160,Dhootha,Amazon Prime Video,Telugu,Crime,2023,345494.0,0.981
+T0274,Nishabdham,Amazon Prime Video,Telugu,Thriller,2020,369603.0,1.0
+T0028,Mighty Little Bheem,Netflix,Unknown,Comedy,2019,1299.0,0.0

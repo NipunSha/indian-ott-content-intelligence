@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+.venv.nosync/
+.env
+.DS_Store
+# raw API caches and non-redistributable downloads (IMDb, Netflix)
+data/raw
+data/raw/
+data/raw.nosync/
+data/processed/restricted/
+data/processed/titles_stage.csv
